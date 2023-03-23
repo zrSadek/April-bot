@@ -13,17 +13,17 @@ npm install
     <img src="https://github.com/Art-Portal/April/actions/workflows/codeql.yml/badge.svg"/>
 </a>
 <a href="https://github.com/Art-Portal/April">
-    <img src="https://badgen.net/github/stars/zrSadek/April-bot"/>
+    <img src="https://badgen.net/github/stars/Art-Portal/April"/>
 </a>
 <a href="https://github.com/Art-Portal/April/releases">
-    <img src="https://badgen.net/github/release/zrSadek/April-bot"/>
+    <img src="https://badgen.net/github/release/Art-Portal/April"/>
 </a>
 <a href="https://github.com/Art-Portal/April/issues">
-    <img src="https://badgen.net/github/open-issues/zrSadek/April-bot"/>
+    <img src="https://badgen.net/github/open-issues/Art-Portal/April"/>
 </a>
 <a href="https://github.com/apps/dependabot">
-    <img src="https://badgen.net/github/dependabot/zrSadek/April-bot"/>
+    <img src="https://badgen.net/github/dependabot/Art-Portal/April"/>
 </a>
-<a href="https://www.codefactor.io/repository/github/zrSadek/April-bot">
-    <img src="https://www.codefactor.io/repository/github/zrSadek/April-bot/badge" alt="CodeFactor" />
+<a href="https://www.codefactor.io/repository/github/art-portal/april">
+    <img src="https://www.codefactor.io/repository/github/art-portal/april/badge" alt="CodeFactor" />
 </a>
