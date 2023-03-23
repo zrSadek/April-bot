@@ -1,0 +1,33 @@
+{
+  "name": "april",
+  "version": "4.5.3-beta",
+  "description": "Best bot ever OwO",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Art-Portal/April.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js",
+    "javascript",
+    "artportal",
+    "art"
+  ],
+  "author": "CoolMan, BakaTaida, Dawn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Art-Portal/April/issues"
+  },
+  "homepage": "https://github.com/Art-Portal/April#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "discord.js": "^14.8.0",
+    "sequelize": "^6.29.3",
+    "sqlite3": "^5.1.6"
+  }
+}
